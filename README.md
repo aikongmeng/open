@@ -5,11 +5,11 @@
 
 - [TakePhoto](https://github.com/crazycodeboy/TakePhoto)是一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库，目前最新版本3.0.0。
 
-- [JsBridge]( https://github.com/lzyzsd/JsBridge)
+- [JsBridge](https://github.com/lzyzsd/JsBridge)
 
-- [commons-lang3]( https://github.com/apache/commons-lang)
+- [commons-lang3](https://github.com/apache/commons-lang)
 
-- [ActiveAndroid]( https://github.com/pardom/ActiveAndroid)
+- [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
 
 - [Carbon
 Material Design](https://github.com/ZieIony/Carbon) implementation for Android 2.3+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corne… 
