@@ -1,4 +1,4 @@
-# 罗列遇到的开源项目，备用。
+###### 罗列
 
 - [RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap) RecyclerView snapping example with SnapHelper ：If you need snapping support to start, top, end or bottom, use GravitySnapHelper.  RecyclerView Item 居中对齐
 
