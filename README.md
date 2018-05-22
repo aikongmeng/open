@@ -17,7 +17,7 @@ Material Design](https://github.com/ZieIony/Carbon) implementation for Android 2
 
 - [shadow-layout](https://github.com/dmytrodanylyk/shadow-layout/wiki/User-Guide)
 
-- 带阴影控件 [shadowViewHelper]([https://github.com/wangjiegulu/ShadowViewHelper](https://github.com/wangjiegulu/ShadowViewHelper])
+- 带阴影控件 [shadowViewHelper](https://github.com/wangjiegulu/ShadowViewHelper)
 
 - [freeline
 Freeline](https://github.com/alibaba/freeline) 是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，它可以充分利用缓存文件，在几秒钟内迅速地对代码的改动进行编译并部署到设备上，有效地减少了日常开发中的大量重新编译与安装的耗时
