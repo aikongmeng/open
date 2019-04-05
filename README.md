@@ -1,4 +1,8 @@
 ###### 罗列
+- [googlesamples](https://github.com/googlesamples) google 
+- https://fossdroid.com/
+
+- [PocketHub](https://github.com/pockethub/PocketHub) 客户端
 
 - [RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap) RecyclerView snapping example with SnapHelper ：If you need snapping support to start, top, end or bottom, use GravitySnapHelper.  RecyclerView Item 居中对齐
 
