@@ -1,10 +1,10 @@
 ###### favorites blog or website or project
-- [Bennyhuo](https://www.bennyhuo.com/about/)
-- [袁辉博客](http://gityuan.com/)
+- [Bennyhuo](https://www.bennyhuo.com/about/) 布道Kotlin
+- [袁辉博客](http://gityuan.com/)  Android 系统相关 
 
-- [googlesamples](https://github.com/googlesamples) google 
+- [googlesamples](https://github.com/googlesamples) google samples
 
-- https://fossdroid.com/
+- [fossdroid.com](https://fossdroid.com/)Free and open source Android apps
 
 - [PocketHub](https://github.com/pockethub/PocketHub) 客户端
 
